@@ -73,7 +73,7 @@ const config = {
     Письма отправляются через   https://formsubmit.co/
     */
     contactPage: {
-        email: "lalaboris@mail.ru"
+        email: "@gmail.com"
     }
 }
 
